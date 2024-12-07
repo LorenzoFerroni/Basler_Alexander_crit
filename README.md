@@ -1,4 +1,4 @@
-Basler Alexander: A Digital Edition
+Basler Alexander: Critical edition
 ===============
 The edition is available on the [Digital Alexanderlied website](https://dh.dlls.univr.it/dse/dal/).
 
